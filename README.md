@@ -1,4 +1,4 @@
-# Elements-of-Data-Science-Projects-R
+# R Projects (Data Visualization)
 
 Hello! My name is Melina and I am a Junior Mathematics student at the University of Texas at Austin. I am also pursuing certificates in Scientific Computation and Data Sciences as well as Elements of Computing.
 
